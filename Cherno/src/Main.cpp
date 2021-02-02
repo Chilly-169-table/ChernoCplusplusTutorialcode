@@ -3,5 +3,5 @@
 int main()
 {
 	std::cout << "Hello World" << std::endl;
-	std::cin.get(); //waits until user presses enter to start executing new line.
+	std::cin.get();//waits until user presses enter to start executing new line.
 }
